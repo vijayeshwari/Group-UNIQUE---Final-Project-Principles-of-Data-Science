@@ -1,5 +1,7 @@
 # WINE QUALITY PREDICTION MODEL
 
+by team UNIQUE
+
 **Goal:**
 
 1) To the investigation of the significance of the characteristics for the assessment of wine quality. 
