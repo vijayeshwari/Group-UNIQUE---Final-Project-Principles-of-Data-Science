@@ -86,9 +86,10 @@ ANN for white wine:
 
 **Concusion**
 
-The model's performance is enhanced after the sample datasets, which are balancing datasets, are applied. 
-In general, the classification model performed better when unnecessary features from the datasets were removed.
+The model's performance is enhanced after the sample datasets, which are balancing datasets, are applied. In general, the classification model performed better when unnecessary features from the datasets were removed.
+
 On both the red and white wine datasets, we found that the artificial neural network (ANN) produced the greatest accuracy results among these three machine learning algorithms. 
+
 As a result, picking the suitable features and balancing the data in the classification algorithms might enhance the performance of the prediction model.
 
 
