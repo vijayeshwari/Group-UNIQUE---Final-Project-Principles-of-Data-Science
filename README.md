@@ -18,11 +18,11 @@ Pravalika Muppalaneni
 
 **Technologies Used:**
 
-scikit-plot
+Interface : Google Collab
 
-pandas
+Language : Python
 
-
+Python Packages : scikit-plot, pandas , Matplotlib , numpy , tensorflow , keras , Smote , seaborn.
 
 **Procedure Followed:**
 
