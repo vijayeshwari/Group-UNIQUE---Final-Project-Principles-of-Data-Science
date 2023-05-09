@@ -2,6 +2,14 @@
 
 by team UNIQUE
 
+Vijayeshwari Palakurthi
+
+Nimisha Chunduru
+
+Chanikya Atluri
+
+Pravalika Muppalaneni
+
 **Goal:**
 
 1) To the investigation of the significance of the characteristics for the assessment of wine quality. 
