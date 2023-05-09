@@ -24,6 +24,10 @@ Language : Python
 
 Python Packages : scikit-plot, pandas , Matplotlib , numpy , tensorflow , keras , Smote , seaborn.
 
+**How to run the code:**
+
+Make sure the dataset is kept in the directory or modify the code to change the directory. Set up the necessary libraries. Run the code by copying and pasting it into a Jupyter Notebook or Python IDE.
+
 **Procedure Followed:**
 
 Unbalanced Data Visualize the quality class label in the red wine and white wine dataset as follows:
